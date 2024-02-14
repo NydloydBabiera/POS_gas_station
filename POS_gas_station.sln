@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_gas_station", "POS_gas_station.csproj", "{D52EF474-B0FD-409D-ABB7-0F8A4FE206A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52EF474-B0FD-409D-ABB7-0F8A4FE206A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52EF474-B0FD-409D-ABB7-0F8A4FE206A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52EF474-B0FD-409D-ABB7-0F8A4FE206A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52EF474-B0FD-409D-ABB7-0F8A4FE206A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC77507-63C2-45EE-B416-216D0405B181}
+	EndGlobalSection
+EndGlobal
